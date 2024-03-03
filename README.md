@@ -7,7 +7,7 @@ A few white box tests for my 'Evaluación de Sistemas' homework at UNAH-VS.
 1. Clone this repo
 
 ```sh
-git clone https://cmricardo/white-box
+git clone https://github.com/CMRicardo/white-box
 cd white-box
 ```
 
