@@ -1,6 +1,6 @@
 import { test, expect } from 'vitest'
 
-import { isEven } from '../scripts/isEven'
+import { isEven } from '../scripts/is-even'
 
 test('should return invalid as number is negative', () => {
   expect(isEven(-2)).toBe('invalid')
